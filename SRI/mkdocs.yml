@@ -1,0 +1,18 @@
+site_name: SRI - Juan García Lanza
+
+nav:
+  - ./index.md
+  - 1. GitHub:
+    - ./1. GitHub/index.md
+  - 2. KVM:
+    - ./2. KVM/index.md
+  - 3. DHCP:
+    - ./3. DHCP/index.md
+
+theme:
+  name: lux
+
+plugins:
+  - search
+  - roamlinks
+  - mermaid2
