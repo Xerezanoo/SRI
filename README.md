@@ -1,2 +1,2 @@
 # Apuntes SRI - Juan García Lanza
-Apuntes servicios SRI
+Apuntes asignatura SRI - ASIR 2
